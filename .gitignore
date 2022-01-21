@@ -226,3 +226,5 @@ fabric.properties
 
 # VisualStudioCode files
 .vscode/
+
+.cxx
